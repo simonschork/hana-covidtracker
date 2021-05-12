@@ -1,1 +1,1 @@
-# hana-covidtracker
+# HANA COVID Tracker
