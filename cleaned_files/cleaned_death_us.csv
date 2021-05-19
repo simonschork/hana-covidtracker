@@ -1,4 +1,4 @@
-UID,iso2,iso3,code3,confirmed death us
+UID,iso2,iso3,code3,confirmed_death_us,Province/State,Country/Region,Lat,Long,confirmed general
 84001001,US,USA,840,108
 84001003,US,USA,840,308
 84001005,US,USA,840,57

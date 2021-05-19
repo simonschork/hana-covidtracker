@@ -1,4 +1,4 @@
-Province/State,Country/Region,Lat,Long,confirmed general
+Province_State,Country/Region,Lat,Long,confirmed_general
 ,Afghanistan,33.93911,67.709953,62403
 ,Albania,41.1533,20.1683,131803
 ,Algeria,28.0339,1.6596,124483
